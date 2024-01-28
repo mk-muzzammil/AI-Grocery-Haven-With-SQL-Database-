@@ -2,7 +2,7 @@ Automated Grocery Store Management System
 This project aims to automate and enhance the operations of a large grocery store company with branches across Pakistan. The system is designed to improve the customer shopping experience, both in-person and virtually. The software development includes various modules to handle registration, login, store and user management, product catalog, inventory management, online shopping, payment, and a store checkout simulator.
 
 ## Screenshots
-![Home Page Grocery Management System](./images/ProjectScreenshot.png)
+![Home Page Grocery Management System](./images/EER Diagram.jpg)
 
 Table of Contents
 Features
